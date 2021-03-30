@@ -1,6 +1,6 @@
 # background-generator -------
 
-#### git clone < github repository http >
+#### git clone < github repository SSSH >
 #### git status // to find the status of the project files
 #### git add <filename>   // to allow for all update files to to be added to the got  repository
 #### git add . //to add multiple  file at the same time.
